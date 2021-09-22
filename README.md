@@ -1,4 +1,4 @@
-# Matrix World Protocol Flow Cadence 
+# Flow Cadence Project Seed
 
 ## Structure
 ```bash

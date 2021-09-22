@@ -1,8 +1,7 @@
 {
-  "name": "matrix-world-protocal-cadence",
+  "name": "flow-cadence-project-seed",
   "version": "0.0.1",
-  "repository": "git@github.com:WhiteMatrixTech/matrix-world-protocal-cadence.git",
-  "author": "WhiteMatrix Tech Ltd.",
+  "author": "Xinyao(Alvin) Sun <Lukclyric@gmail.com> @ WhiteMatrix Tech Ltd.",
   "license": "MIT",
   "private": true,
   "workspaces": [
